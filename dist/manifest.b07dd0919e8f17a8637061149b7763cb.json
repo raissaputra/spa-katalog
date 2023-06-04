@@ -1,0 +1,52 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.a27257b088adc08db7bcf468cbc6bed2.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon_1024x1024.a27257b088adc08db7bcf468cbc6bed2.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.2c14100419f4ce08e2d3c2b9eddf19ea.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.e9f83cba79332b707cb13a492564c685.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.9eba721f2bb5a2d0bd5072f7cde3fcea.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.ee582b1b3bbdd584842474a7e65c3bb3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.d2547502d399e90fc2db296cf0bc39c7.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.d829f36bab49266524d452ecde8ab513.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Rs_fooD. Apps",
+  "short_name": "Rs_fooD.",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "find interesting restaurants near you",
+  "background_color": "#ffffff"
+}
